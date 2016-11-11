@@ -4,12 +4,9 @@ Ice Strategy Game (The Project)
 ##### Not Started Yet (0%)
 =============
 ## Requirements
-* Java 7
-* Eclipse w/ Android APK plugin
+* [Java]
+* [Android Studio]
 * Playthrough of [Ice]
-
-## How to use eclipse with android apk
-[Android APK]
 
 ## Progress
 __Put done beside it when it's finished__
@@ -34,5 +31,6 @@ Create sprites for new ships
 
 Maybe more later ...
 
-[Android APK]: https://stuff.mit.edu/afs/sipb/project/android/docs/sdk/installing/installing-adt.html
+[Java]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[Android Studio]: https://developer.android.com/studio/index.html
 [Ice]: https://play.google.com/store/apps/details?id=com.queader.ice&hl=en
